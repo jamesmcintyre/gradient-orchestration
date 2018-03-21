@@ -1,7 +1,7 @@
-# Node.js WebSocket Example
+# Gradient Orchestration Server
 
-This example accompanies the
-[Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
-tutorial.
+A node server using websockets to receive base64-encoded images at ~1 per second then send to our image classification server then return the promise result to client as a websocket event.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+## Getting Started
+
+We'll be adding instructions for setup and usage soon! (Until then you can probably figure it out without too much work!)
